@@ -1,0 +1,10 @@
+Gồm có:  
+Thư mục host: Code chạy tuần tự
+Thư mục src: Chứa các file code thực phụ vụ cho quá trình song song hóa.
+File main.cu: File main của quá trình song song. 
+File Notebook.ipynnb: Ghi nhận kết quả quá trình chạy song song. 
+File Report.ipynb: File báo cáo nội dung. 
+File Slide.pdf: Nội dụng file thuyết trình
+Thư mực drive lưu trữ: 
+https://drive.google.com/drive/folders/1MTKFVx8VBkSiHNUw-4QjtakuQBoDEPcd?usp=drive_link.
+
